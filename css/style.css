@@ -1,0 +1,32 @@
+div {
+  width: 1000px;
+  border: 15px solid sandybrown ;
+  padding: 50px;
+  margin : 100px auto;
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+
+p {
+  font-size: 35px;
+}
+button {
+  margin: 10px;
+  width: 250px;
+  font-size: 24px;
+  height: 80px;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  
+}
+button:hover{
+  background-color: bisque;
+  color: black;
+
+  transition: 1s;
+
+}
